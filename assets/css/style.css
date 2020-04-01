@@ -1,0 +1,17 @@
+.post-content {
+    /* background: none repeat scroll 0 0 #FFFFFF; */
+    color: white;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    width: 95%;
+    opacity: 0.75;
+    bottom:5px;
+    left:0;
+    position: absolute;
+}
+
+div.thumbnail a img {
+    width:95%;
+    position:relative
+}
