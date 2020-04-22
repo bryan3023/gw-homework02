@@ -5,13 +5,15 @@
     padding: auto;
     text-align: center;
     width: 95%;
-    opacity: 0.75;
+    /* opacity: 0.90; */
     bottom:5px;
     left:0;
     position: absolute;
 }
 
-div.thumbnail a img {
+.post-content p a { color: white; }
+
+div.thumbnail img {
     width:95%;
     position:relative
 }
